@@ -6,7 +6,8 @@ Informasi mengenai lomba antar mahasiswa sudah banyak tersebar. Namun, karena sa
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+![This is an image](https://ibb.co/YfsCx0G)
+![This is an image](https://ibb.co/6nVYH7d)
 
 ### Built With
 
